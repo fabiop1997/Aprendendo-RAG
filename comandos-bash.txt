@@ -2,3 +2,8 @@ ls - lista arquivos dentro do diretório
 pwd - mostra o diretório que se está no momento
 cd .. - volta na pasta anterior no caminho
 mkdir - cria um novo diretório (pasta)
+
+git add . - adiciona todo os arquivos para etapa de stage
+
+git reset nome arquivo - retira o arquivo da etapa de stage
+
