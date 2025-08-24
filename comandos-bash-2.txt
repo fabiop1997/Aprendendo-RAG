@@ -2,3 +2,5 @@ ls - lista arquivos dentro do diretório
 pwd - mostra o diretório que se está no momento
 cd .. - volta na pasta anterior no caminho
 mkdir - cria um novo diretório (pasta)
+cat - mostra o que há dentro do arquivo
+rf - romeve arquivos do diretorio
