@@ -1,1 +1,4 @@
-esse arquivo apresenta comandos secundarios
+esse arquivo apresenta comandos secundários
+
+
+Comandos mais genéricos fsdfsd
